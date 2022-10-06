@@ -6,7 +6,7 @@
   "scripts": {
     "test": "index.js",
     "start": "index.js",
-    "git" : "git add .&& git commit -m '.' && git push origin master "
+    "git": "git add .&& git commit -m '.' && git push"
   },
   "repository": {
     "type": "git",
