@@ -1,11 +1,12 @@
 {
   "name": "israel-test-npm",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "index.js",
-    "start": "index.js"
+    "start": "index.js",
+    "git" : "git add .&& git commit -m '.' && git push origin master "
   },
   "repository": {
     "type": "git",
